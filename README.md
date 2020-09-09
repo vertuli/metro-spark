@@ -1,8 +1,8 @@
 # metro
 
-Getting pings from [http://api.metro.net](http://api.metro.net) and using Spark's Structured Streaming to create a history of vehicle paths.
+Getting pings from [LA Metro's API](http://api.metro.net) and using Spark's Structured Streaming to create a history of vehicle paths.
 
-Using Li Haoyi's shiny new build tool, [http://www.lihaoyi.com/mill/](mill)!
+Using [Spark 3.0.0](https://spark.apache.org/docs/3.0.0/) and Li Haoyi's shiny new build tool, [mill](http://www.lihaoyi.com/mill/)!
 
 
 ## pings
